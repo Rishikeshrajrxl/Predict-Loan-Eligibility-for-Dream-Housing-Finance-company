@@ -1,12 +1,12 @@
 ## Predicting Loan Eligibility for Dream Housing Finance company
-### This is a Hackathon problem @Analytics Vidhya where we were given a Noisy Datasets and we were to come up with our best accuracy using Machine Leaning model. Before my final submission I tried different ML model for my best Accuracy to be delivered.
+#### This is a Hackathon problem @Analytics Vidhya where we were given a Noisy Datasets and we were to come up with our best accuracy using Machine Leaning model. Before my final submission I tried different ML model for my best Accuracy to be delivered.
 ##### Following are the ML model that I tried:
 ##### 1) Decision Tree Classifier (67%)
 ##### 2) Random Forest Classifier (77.8%)
 ##### 3) K-Nearest-Neighbors (77.8%)
 ##### 4) Support Vector Classifier (77.8%)
 ##### At last I end up with KNN(77.8% Accuracy) at my best.
-## Rank : 3300 out of 61417
+### Rank : 3300 out of 61417
 
 # Problem Statement #
 Dream Housing Finance company deals in all kinds of home loans. They have presence across all urban, semi urban and rural areas. Customer first applies for home loan and after that company validates the customer eligibility for loan.
