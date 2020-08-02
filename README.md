@@ -1,6 +1,5 @@
 ## Predicting Loan Eligibility for Dream Housing Finance company
-#### This is a Hackathon problem @Analytics Vidhya where we were given a Noisy Datasets and we were to come up with our best accuracy using Machine Leaning model.
-#### Before my final submission I tried different ML model for my best Accuracy to be delivered.
+#### This is a Hackathon problem @Analytics Vidhya where we were given a Noisy Datasets and we were to come up with our best accuracy using Machine Leaning model. Before my final submission I tried different ML model for my best Accuracy to be delivered.
 #### Following are the ML model that I tried:
 #### 1) Decision Tree Classifier (67%)
 #### 2) Random Forest Classifier (77.8%)
