@@ -1,11 +1,11 @@
 ## Predicting Loan Eligibility for Dream Housing Finance company
 #### This is a Hackathon problem @Analytics Vidhya where we were given a Noisy Datasets and we were to come up with our best accuracy using Machine Leaning model. Before my final submission I tried different ML model for my best Accuracy to be delivered.
 #### Following are the ML model that I tried:
-##### 1) Decision Tree Classifier (67%)
-##### 2) Random Forest Classifier (77.8%)
-##### 3) K-Nearest-Neighbors (77.8%)
-##### 4) Support Vector Classifier (77.8%)
-##### At last I end up with KNN(77.8% Accuracy) at my best.
+##### 1) Decision Tree Classifier 
+##### 2) Random Forest Classifier 
+##### 3) K-Nearest-Neighbors 
+##### 4) Support Vector Classifier 
+##### At last I end up with KNN(score : 77.8) at my best.
 ### Rank : 3300 out of 61417
 
 # Problem Statement #
